@@ -1,0 +1,2 @@
+install sounddevice
+http://python-sounddevice.readthedocs.io/en/0.3.10/
