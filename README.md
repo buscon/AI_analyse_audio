@@ -1,3 +1,3 @@
 # AI_analyse_audio
-test
-lll
+
+# libraries: matplotlib, os, numpy, librosa, TSNE, json, pyaudio
